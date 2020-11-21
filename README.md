@@ -9,6 +9,8 @@ MalatCellCycle.m identifies mitotic vs interphasic nuclei
 
 WatershedDAPI.m is used to segment nuclei
 
+Nuclear2.m is called by WatershedDAPI.m
+
 The MATLAB bioformat package (bfmatlab) should also be installed. It can be downloaded at:
 https://downloads.openmicroscopy.org/bio-formats/5.3.4/
 
